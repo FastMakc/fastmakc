@@ -1,6 +1,4 @@
-Header 
-
-About Me
+## I'm beginner Software Engeneer
 
 Languages and Tools
 
