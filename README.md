@@ -1,11 +1,12 @@
 ## I'm beginner Software Engeneer
 
-![Java](https://img.shields.io/badge/-JAVA-090909?style=for-the-badge&logo=java)
-![Spring](https://img.shields.io/badge/-SPRING-090909?style=for-the-badge&logo=spring)
-![SpringBoot](https://img.shields.io/badge/-SPRING_BOOT-090909?style=for-the-badge&logo=spring)
-![PostgreSQL](https://img.shields.io/badge/-POSTGRESQL-090909?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MYSQL-090909?style=for-the-badge&logo=mysql)
-![Postman](https://img.shields.io/badge/-POSTMAN-090909?style=for-the-badge&logo=postman)
+### Languges and Tools
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java)
+![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=spring)
+![SpringBoot](https://img.shields.io/badge/-Spring_Boot-090909?style=for-the-badge&logo=spring)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql)
+![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
 
-
-Follow Me
+###Follow Me
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/maxFedor)
